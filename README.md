@@ -2,6 +2,8 @@
 
 ![cover](https://github.com/abhinavg916/react-youtube-clone/blob/main/YouTube%20Clone%20Cover.png)
 
+Watch the live production build here i.e. **deployment** - [Live Preview](https://672c96effae3994251b3d588--lively-alfajores-8d4a03.netlify.app/)
+
 **Developed** using Reactjs, Axios, React Router, Material UI and Rapid API
 
 **Steps to run**
