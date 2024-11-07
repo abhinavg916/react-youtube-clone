@@ -6,6 +6,8 @@ Watch the live production build here i.e. **deployment** - [Live Preview](https:
 
 **Developed** using Reactjs, Axios, React Router, Material UI and Rapid API
 
+Developed YouTube clone using React.js with features including topic categories, video search, suggested videos, and dedicated video player with an expanded viewing area. Leveraged Material UI for a clean, smooth and responsive user experience.
+
 ### Features
 
 - **Video Search** - Users can search for videos using keywords.
