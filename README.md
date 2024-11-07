@@ -20,4 +20,5 @@ npm i
 npm start
 ```
 
+- NOTE: Please create your own account on Rapid API platform and use your own key in `.env`
 - NOTE: Tested on Node version 18.18.0
