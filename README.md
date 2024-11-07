@@ -6,14 +6,14 @@ Watch the live production build here i.e. **deployment** - [Live Preview](https:
 
 **Developed** using Reactjs, Axios, React Router, Material UI and Rapid API
 
-**Features**
+### Features
 
-- Video Search - Users can search for videos using keywords.
-- Suggested Videos - Suggested videos appear based on current selections.
-- Video Player - A video player interface to watch selected videos.
-- Routing - React Router is implemented for navigating between different pages or components within the app.
+- **Video Search** - Users can search for videos using keywords.
+- **Suggested Videos** - Suggested videos appear based on current selections.
+- **Video Player** - A video player interface to watch selected videos on a bigger viewing area with dedicated route and similar recommended videos on right side.
+- **Routing** - Specified route handling for navigating between different pages and components within the app.
 
-**Steps to run**
+### Steps to Run
 
 - Setup RAPID API
   - Sign into Rapid API then search for "[YouTube v3](https://rapidapi.com/ytdlfree/api/youtube-v31)" and opt for free plan.
