@@ -6,6 +6,13 @@ Watch the live production build here i.e. **deployment** - [Live Preview](https:
 
 **Developed** using Reactjs, Axios, React Router, Material UI and Rapid API
 
+**Features**
+
+- Video Search - Users can search for videos using keywords.
+- Suggested Videos - Suggested videos appear based on current selections.
+- Video Player - A video player interface to watch selected videos.
+- Routing - React Router is implemented for navigating between different pages or components within the app.
+
 **Steps to run**
 
 - Setup RAPID API
