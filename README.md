@@ -1,6 +1,6 @@
 # YouTube Clone
 
-![cover]()
+![cover](https://github.com/abhinavg916/react-youtube-clone/blob/main/YouTube%20Clone%20Cover.png)
 
 Developed using Reactjs, Axios, React Router, Material UI and Rapid API
 
